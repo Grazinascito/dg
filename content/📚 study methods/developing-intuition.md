@@ -18,7 +18,7 @@ An interesting thing about [Developing Your Intuition For Math](https://betterex
 
 
 
-![screenshot](../../quartz/static/images/Screenshot%202024-11-15%20at%2021.02.11.png)
+![screenshot](/images/Screenshot%202024-11-15%20at%2021.02.11.png)
 
 so, the first step after identify the theme: 
 #### 1. make questions
@@ -30,12 +30,12 @@ so, the first step after identify the theme:
 
 if you can think about 2 or 1 answers, great! 
 
-we are ready to use the out of the box(XDXD) approach that article ..
+we are ready to use the out of the box(XDXD 🥁) approach that article mentioned!
 
 intuition
 each definition is a piece - your intuition is an important piece here.
 
-![screenshot](../../quartz/static/images/Screenshot%202024-11-15%20at%2021.44.29.png)
+![screenshot](/images/Screenshot%202024-11-15%20at%2021.44.29.png)
 
 the whole point is to start from a pieces that you are able to use your intuition.
 

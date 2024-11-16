@@ -1,5 +1,5 @@
 ---
-title: react query advantages
+title: react-query-advantages
 draft: false
 tags:
   - "#react"
@@ -25,7 +25,7 @@ tags:
 
 #### how?
 
-| ![Image 1](../../quartz/static/images/react-query-1.png) | ![Image 2](../../quartz/static/images/react-query-2.png) | ![Image 3](../../quartz/static/images/react-query-3.png) |
+| ![Image 1](/images/react-query-1.png) | ![Image 2](/images/react-query-2.png) | ![Image 3](/images/react-query-3.png) |
 | -------------------------------------- | -------------------------------------- | -------------------------------------- |
 
 
