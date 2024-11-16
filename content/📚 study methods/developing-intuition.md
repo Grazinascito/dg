@@ -1,17 +1,17 @@
 ---
-title: Developing Intuition - how to learn hard concepts
+title: developing-intuition-how-to-learn-hard-concepts
 draft: false
 tags:
   - "#learning"
   - "#study-methods"
   - "#thinking-process"
-date: 1999-11-15
+date: 2024-11-15
 ---
 
 ---
 ## How to learn hard concepts?
 
-An interesting thing about [Developing Your Intuition For Math](https://betterexplained.com/articles/developing-your-intuition-for-math/) article is how it starts by defining a cat — yes, the animal. Author challenges us to describe a cat, buuuuut that is too boring. Dont get me wrong, I really do love cats, but I’m not interested about what’s _inside_ a cat, KEKW.
+An interesting thing about [Developing Your Intuition For Math](https://betterexplained.com/articles/developing-your-intuition-for-math/) article is how it starts by defining a cat — yes, the animal 🐱. Author challenges us to describe a cat, buuuuut that is too boring. Dont get me wrong, I really do love cats, but I’m not interested about what’s _inside_ a cat, KEKW.
 
 > [!warning]
 >  to fully understand it, you need to be familiar with #decomposition pattern*(break down the problem into smaller pieces)* 
