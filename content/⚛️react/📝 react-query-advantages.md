@@ -1,5 +1,5 @@
 ---
-title: react-query-advantages
+title: 📝react-query-advantages
 draft: false
 tags:
   - "#react"

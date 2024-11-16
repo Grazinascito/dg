@@ -1,5 +1,5 @@
 ---
-title: titleeeeeeee
+title: 🕹️ react-query-practices
 draft: false
 tags:
   - "#learning"
