@@ -25,7 +25,7 @@ tags:
 
 #### how?
 
-| ![Image 1](content/react/images/react-query-1.png) | ![Image 2](content/react/images/react-query-2.png) | ![Image 3](content/react/images/react-query-3.png) |
+| ![Image 1](../../quartz/static/images/react-query-1.png) | ![Image 2](../../quartz/static/images/react-query-2.png) | ![Image 3](../../quartz/static/images/react-query-3.png) |
 | -------------------------------------- | -------------------------------------- | -------------------------------------- |
 
 
