@@ -22,7 +22,7 @@ An interesting thing about [Developing Your Intuition For Math](https://betterex
 
 so, the first step after identify the theme: 
 #### 1. make questions
-* what do i already knows about a "black box"?
+* what do i already know about a "black box"?
 * what problems black box solves?
 * why we need a black box?
 * what was the author thinking when he created a black box?
