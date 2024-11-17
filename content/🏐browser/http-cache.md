@@ -2,8 +2,9 @@
 title: titleeeeeeee
 draft: false
 tags:
-  - "#template"
   - "#learning"
+  - browser
+  - cache
 ---
  
 ---
@@ -21,6 +22,6 @@ tags:
 
 
 #### references
-
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching
 
 

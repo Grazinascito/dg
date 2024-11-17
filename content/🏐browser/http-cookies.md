@@ -1,9 +1,12 @@
 ---
-title: titleeeeeeee
-draft: false
+title: http-cookies
+draft: true
 tags:
-  - "#template"
   - "#learning"
+  - "#cookies"
+  - "#http"
+  - browser
+  - "#visual-thinking"
 ---
  
 ---

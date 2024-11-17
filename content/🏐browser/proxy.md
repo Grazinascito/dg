@@ -1,11 +1,11 @@
 ---
-title: titleeeeeeee
-draft: false
+title: proxy
+draft: true
 tags:
-  - "#template"
   - "#learning"
+  - browser
 ---
- 
+ WIP
 ---
 
  ### ❌ PROBLEMS:
