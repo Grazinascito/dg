@@ -9,21 +9,5 @@ tags:
 
 ---
 
- ### ❌ PROBLEMS:
-* 
-
-#### what solves this problem?
-* 
-#### why?
-
-* 
-
-#### how?
-
-#### the big picture
-
-
-#### references
-
 
 
