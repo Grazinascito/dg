@@ -10,10 +10,6 @@ tags:
 
 ---
 
-- [x] understand proxy servers
-- [ ] create an "about me" section on website
-- [ ] publish http notes
-- [ ] add comments on website
 
 #### what?
 
@@ -31,7 +27,7 @@ WIP
 
 ![HTTP Notes 1](../images/http_notes_1.png)
 
-#### big picture
+#### the big picture
 
 ![HTTP Notes 4](../images/http_notes_4.png)
 
