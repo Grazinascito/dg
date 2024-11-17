@@ -1,12 +1,12 @@
 ---
-title: http-cache
+title: programs
 draft: false
 tags:
   - "#learning"
-  - browser
-  - cache
+  - "#shell"
+  - "#boot-dev"
 ---
- 
+
 ---
 
  ### ❌ PROBLEMS:
@@ -20,8 +20,10 @@ tags:
 
 #### how?
 
+#### the big picture
+
 
 #### references
-* https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching
+
 
 

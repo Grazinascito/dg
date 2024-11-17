@@ -10,19 +10,3 @@ tags:
  
 ---
 
- ### ❌ PROBLEMS:
-* 
-
-#### what solves this problem?
-* 
-#### why?
-
-* 
-
-#### how?
-
-
-
-
-
-
