@@ -5,7 +5,23 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.MobileOnly(Component.SpotifyEmbed),
+
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        // from data-repo
+        repo: "grazinascito/dg",
+        // from data-repo-id
+        repoId: "R_kgDONPlHHg",
+        // from data-category
+        category: "General",
+        // from data-category-id
+        categoryId: "DIC_kwDONPlHHs4CkVqb",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -17,16 +33,21 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.MobileOnly(Component.Search()),
+    Component.MobileOnly(Component.Spacer()),
+
+    Component.MobileOnly(Component.Explorer()),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(),
+
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.DesktopOnly(Component.Search()),
+
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -44,7 +65,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    Component.MobileOnly(Component.Spacer()),
+
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
