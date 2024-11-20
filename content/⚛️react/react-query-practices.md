@@ -1,6 +1,6 @@
 ---
 title: 🕹️ react-query-practices
-draft: false
+draft: true
 tags:
   - "#learning"
   - "#architecture"

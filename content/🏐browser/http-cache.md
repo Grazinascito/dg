@@ -1,6 +1,6 @@
 ---
 title: http-cache
-draft: false
+draft: true
 tags:
   - "#learning"
   - browser

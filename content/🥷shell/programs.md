@@ -1,8 +1,7 @@
 ---
 title: programs
-draft: false
+draft: true
 tags:
-  - "#learning"
   - "#shell"
   - "#boot-dev"
 ---

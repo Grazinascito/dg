@@ -5,6 +5,7 @@ tags:
   - "#learning"
   - "#study-methods"
   - "#thinking-process"
+  - "#intuition"
 ---
 
 ---
