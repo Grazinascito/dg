@@ -17,7 +17,7 @@ An interesting thing about [Developing Your Intuition For Math](https://betterex
 > [!warning]
 > to fully understand it, you need to be familiar with #decomposition pattern*(break down the problem into smaller pieces)*
 
-![screenshot](/images/Screenshot%202024-11-15%20at%2021.02.11.png)
+![screenshot](../images/Screenshot%202024-11-15%20at%2021.02.11.png)
 
 so, the first step after identify the theme:
 
@@ -36,7 +36,7 @@ we are ready to use the ==out of the box==(XDXD 🥁) approach that article ment
 intuition
 each definition is a piece - your intuition is an important piece here.
 
-![screenshot](/images/Screenshot%202024-11-15%20at%2021.44.29.png)
+![screenshot](../images/Screenshot%202024-11-15%20at%2021.44.29.png)
 
 the whole point is to start from a pieces that you are able to use your intuition.
 

@@ -1,6 +1,5 @@
 ---
 title: http-cookies
-draft: true
 tags:
   - "#learning"
   - "#cookies"

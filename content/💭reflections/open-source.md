@@ -1,6 +1,5 @@
 ---
 title: open-source
-draft: true
 tags:
   - "#code"
 ---

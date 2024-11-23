@@ -1,6 +1,5 @@
 ---
 title: proxy
-draft: true
 tags:
   - "#learning"
   - browser

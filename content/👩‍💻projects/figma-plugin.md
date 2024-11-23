@@ -1,6 +1,5 @@
 ---
 title: figma-plugin
-draft: false
 tags:
   - "#template"
   - "#learning"

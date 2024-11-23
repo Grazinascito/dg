@@ -1,9 +1,7 @@
 ---
-title: http-cache
+title: data-flow-pattern
 tags:
   - "#learning"
-  - browser
-  - cache
 ---
  
 ---
@@ -19,8 +17,10 @@ tags:
 
 #### how?
 
+#### the big picture
+
 
 #### references
-* https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching
+
 
 

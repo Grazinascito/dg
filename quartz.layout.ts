@@ -6,8 +6,6 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.MobileOnly(Component.SpotifyEmbed),
-
     Component.Comments({
       provider: "giscus",
       options: {

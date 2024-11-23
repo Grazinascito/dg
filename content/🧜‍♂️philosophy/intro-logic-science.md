@@ -1,6 +1,5 @@
 ---
 title: Introduction to the Science of Logic
-draft: true
 tags:
   - "#reading"
   - "#philosophy"
