@@ -6,6 +6,7 @@ tags:
   - "#study-methods"
   - "#thinking-process"
   - "#intuition"
+date: 2024-11-15
 ---
 
 ---
