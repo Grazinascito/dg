@@ -7,7 +7,6 @@ tags:
   - study-methods
 date: 2024-12-09
 ---
-
 ---
 ## intro
 
