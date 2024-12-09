@@ -29,3 +29,5 @@ Sung advocates for mapping, a **non-linear note-taking technique**, to effective
 #### 4. Evidence & Reference
 You first collect and organize the information, perhaps in a note-taking system, flashcards, or a mind map. Then, you actively recall and apply the information through problem-solving, writing exercises, or teaching others
 
+#### Resources
+* https://youtu.be/okHkUIW46ks
