@@ -85,3 +85,7 @@ Veja bem, se o seu objetivo é fazer uma prova difícil como o ENEM, uma prova q
     - **Do que se trata esse código?** Qual o problema ele resolve?
     - **Como chegaram nessa solução?** Qual o raciocínio por trás dela?
     - **Existem outras formas de fazer isso?** Comparar soluções diferentes ajuda a entender melhor o conceito.
+
+
+### resources:
+* https://www.youtube.com/watch?v=Dm68uFy6gus&t=11s
