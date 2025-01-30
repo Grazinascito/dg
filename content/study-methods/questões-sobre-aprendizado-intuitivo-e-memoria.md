@@ -27,10 +27,6 @@ Veja bem, se o seu objetivo é fazer uma prova difícil como o ENEM, uma prova q
 
 **🤔 E quais são as etapas que envolvem a compreensão de um assunto através desse aprendizado intuitivo?** 
 
->[!info] **Entenda o que são processos de pensamento conscientes e inconscientes:**
->O cérebro consciente é usado para se envolver ativamente com o problema e sua solução, enquanto o cérebro inconsciente trabalha em segundo plano, processando o problema e gerando insights
-
-
 
 1. Entenda o panorama geral: Comece entendendo o propósito do conceito sem entrar em detalhes. Trata-se de ler uma introdução ou resumo
 2. Entenda os detalhes no contexto: Ao expandir os detalhes, certifique-se de entender como cada parte se encaixa no conceito maior. Foque no porquê de cada etapa ser necessária e o que ela realiza.
@@ -39,7 +35,9 @@ Veja bem, se o seu objetivo é fazer uma prova difícil como o ENEM, uma prova q
 5. Explique o conceito: Explique o conceito com suas próprias palavras como se estivesse ensinando a outra pessoa. Isso revelará quaisquer lacunas em sua compreensão.
 6. Explore o conceito: Desafie cada parte do conceito, questione suposições e observe-o de vários ângulos. Isso pode incluir falar com outras pessoas, perguntar por que as coisas são organizadas de uma certa maneira e quebrar suas próprias suposições.
 
-
+pq isso funciona:
+>[!info] **Entenda o que são processos de pensamento conscientes e inconscientes:**
+>O cérebro consciente é usado para se envolver ativamente com o problema e sua solução, enquanto o cérebro inconsciente trabalha em segundo plano, processando o problema e gerando insights
 ### Minhas dicas:
 
 
