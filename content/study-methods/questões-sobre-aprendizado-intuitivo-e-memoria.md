@@ -19,13 +19,13 @@ O problema é que esses apps dão uma falsa impressão de que você aprendeu. Gi
 
 Veja bem, se o seu objetivo é fazer uma prova difícil como o ENEM, uma prova que avalia habilidades de raciocínio, conexões entre as áreas de conhecimento, então não faz sentido utilizar uma abordagem tão [fubango](https://www.dicionarioinformal.com.br/fubango/) pra estudar.
 
-**Então qual que é a solução?**
+### Então qual que é a solução?
 
  ✨ aprendizado intuitivo ✨
 	pq? promove a compreensão profunda, em vez de apenas armazenar informações temporárias. Ele facilita a aplicação do conhecimento em novos contextos e estimula conexões entre conceitos.
     
 
-**🤔 E quais são as etapas que envolvem a compreensão de um assunto através desse aprendizado intuitivo?** 
+### Etapas que envolvem a compreensão de um assunto através do aprendizado intuitivo
 
 
 1. Entenda o panorama geral: Comece entendendo o propósito do conceito sem entrar em detalhes. Trata-se de ler uma introdução ou resumo
@@ -40,7 +40,6 @@ pq isso funciona:
 >O cérebro consciente é usado para se envolver ativamente com o problema e sua solução, enquanto o cérebro inconsciente trabalha em segundo plano, processando o problema e gerando insights
 ### Minhas dicas:
 
-
 **Como dividir o aprendizado em pedaços para não se sobrecarregar?** 🔍📂💡
 
 - Separe o conteúdo em pequenas unidades de informação.
@@ -48,7 +47,6 @@ pq isso funciona:
 - Crie objetivos claros para cada sessão de estudo.
     
 - Priorize os fundamentos antes de avançar para conteúdos complexos.
-    
 
 **Como entender cada pedaço?**
 
