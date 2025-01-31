@@ -3,9 +3,10 @@ title: seniors-vs-juniors
 draft: false
 tags:
   - "#learning"
-  - visual-thinking
   - thinking-process
   - reading
+  - PTL
+  - "#books"
 date: 2024-12-10
 ---
  
